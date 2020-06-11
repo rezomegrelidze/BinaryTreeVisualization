@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeVisualization", "BinaryTreeVisualization\BinaryTreeVisualization.csproj", "{7DA72FE6-1DBF-4F3E-B718-20189E61AF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA72FE6-1DBF-4F3E-B718-20189E61AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA72FE6-1DBF-4F3E-B718-20189E61AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA72FE6-1DBF-4F3E-B718-20189E61AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA72FE6-1DBF-4F3E-B718-20189E61AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB375F73-EAC8-4A70-A5E0-CCB2E9908692}
+	EndGlobalSection
+EndGlobal
